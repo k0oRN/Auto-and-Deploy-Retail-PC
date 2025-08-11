@@ -1,0 +1,18 @@
+doc_id,item,category,amount,price,discount
+CHK-02-01-49628,Gigabyte Aorus Z790 Master,motherboards,2,78321,604.08
+CHK-02-01-49628,NVIDIA GeForce RTX 4090,graphics cards,1,32443,3667.93
+CHK-02-01-89669,Fractal Design Meshify 2,cases,2,45669,5603.55
+CHK-02-01-89669,AMD Radeon RX 6800 XT,graphics cards,1,96381,5233.12
+CHK-02-01-89669,Intel Core i7-13700K,processors,2,6543,782.71
+CHK-02-01-89669,Seasonic Focus GX-750 PSU,power supplies,2,10874,228.86
+CHK-02-01-97355,Lian Li Lancool III,cases,2,51457,3007.48
+CHK-02-01-97355,AMD Radeon RX 6800 XT,graphics cards,5,87451,6573.57
+CHK-02-01-97355,Arctic Liquid Freezer II 360,coolers,1,79584,7960.68
+CHK-02-01-97355,Biostar X670E Valkyrie,motherboards,3,98993,14116.75
+CHK-02-01-94284,Gigabyte Aorus Z790 Master,motherboards,5,36242,5317.03
+CHK-02-01-49575,Biostar X670E Valkyrie,motherboards,3,51385,3351.11
+CHK-02-01-65898,NVIDIA GeForce RTX 4090,graphics cards,3,88773,11789.48
+CHK-02-01-65898,HyperX Predator 64GB DDR5,RAM,5,93460,10240.0
+CHK-02-01-65898,AMD Radeon RX 7900 XTX,graphics cards,1,39531,578.58
+CHK-02-01-65898,AMD Radeon RX 6800 XT,graphics cards,4,62290,2179.23
+CHK-02-01-65898,Gigabyte Aorus Z790 Master,motherboards,4,43512,5048.37
