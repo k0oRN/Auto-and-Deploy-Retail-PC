@@ -55,9 +55,3 @@
    ```bash
      python generate-sales-data.py
      python run.py
-   
-     
-
-
-
-
